@@ -1,6 +1,6 @@
 # WP Safelink PRO – Free Download
 
-![WP Safelink PRO](https://github.com/wp-safelink-pro/wp-safelink-pro.github.io/blob/main/wp_safelink_pro_banner.jpg?raw=true)
+![WP Safelink PRO](https://github.com/WP-Safelink-PRO/.github/blob/main/wp-safelink-logo.png?raw=true)
 
 ## 🔗 Monetize Your Outbound Links Easily
 
