@@ -31,5 +31,5 @@ WP Safelink PRO is the preferred solution for bloggers, file sharers, and downlo
 
 ---
 
-**© WP Safelink PRO. All rights belong to their respective owners.**
+**WP Safelink PRO. All rights belong to their respective owners.**
 
